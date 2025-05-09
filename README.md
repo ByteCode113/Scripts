@@ -15,3 +15,4 @@ getgenv().Config = {
 }; 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ByteCode113/Scripts/refs/heads/main/deletekebabs.luau', true))()
 ```
+--- Game Link [Click Here](https://www.roblox.com/games/88339269113204/Human-Kebabs)
