@@ -11,7 +11,7 @@ Human Kebab :
 ```
 getgenv().Config = { 
     Killaura = true,
-    WalkSpeed = 50
+    WalkSpeed = 50 --- if u stop having the walkspeed just reset (prob beacuse u used an ability) i will fix it soon
 }; 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ByteCode113/Scripts/refs/heads/main/deletekebabs.luau', true))()
 ```
